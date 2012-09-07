@@ -1,5 +1,2 @@
-cache
-cache-downloads
-inspector
-api
-source/inspector.html
+prop_test
+*.o
